@@ -1,0 +1,28 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_00052415",
+  "version": "1.0.0",
+  "description": "Solucion practica a parcial 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chsergio97/Parcial2_PW_SEC01_C2_2025_00052415.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chsergio97/Parcial2_PW_SEC01_C2_2025_00052415/issues"
+  },
+  "homepage": "https://github.com/chsergio97/Parcial2_PW_SEC01_C2_2025_00052415#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
